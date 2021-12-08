@@ -1,3 +1,5 @@
 # git_r_dun
 
-This is the readme file
+$ git clone https://github.com/cebix/macemu.git
+$ cd macemu/SheepShaver
+$ make links
